@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Hè hè tao biết mà, tính cho mày con ip13 đấy những không cần thì thôi vậy😉',
     messDesc: '💬💬 Xong rồi thì nhắn tin cho tao nha ^^ 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://www.facebook.com/messages/t/100012808756017/'
+    messLink: 'https://www.facebook.com/profile.php?id=100033353748879'
 }
