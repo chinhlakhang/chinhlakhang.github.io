@@ -10,9 +10,9 @@ const CONFIG = {
     question:'Tại sao lại không cần quà vậy 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì mày là món quà lớn nhất rồi đó ahihi 😊😊            ',
+    reply: 'Tại vì mày là món quà lớn nhất rồi đó ahihi 😊😊',
     mess: 'Hè hè tao biết mà, tính cho mày con ip13 đấy những không cần thì thôi vậy😉',
     messDesc: '💬💬 Xong rồi thì nhắn tin cho tao nha ^^ 💬💬',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://www.facebook.com/messages/t/100012808756017/'
+    messLink: 'https://www.facebook.com/profile.php?id=100033353748879'
 }
